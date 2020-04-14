@@ -1,0 +1,36 @@
+body{
+  background-color: #FAFAD2;
+}
+
+h1{
+  color: black;
+}
+
+#g{
+  background-color: #87CEFA
+}
+
+#g:hover{
+  background-color: #FAFAD2
+}
+
+h3{
+  color: #8B0000
+}
+
+.circuler{
+  border-radius: 120%
+}
+
+.button:hover{
+  background-color: lightblue;
+}
+
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:gray;
+  border-width: 5px;
+  width: 5%;
+}
